@@ -7,4 +7,4 @@ The study is split into two parts, one for (potential) _users_ of autodiff, and 
 - [Autodiff user study form](https://forms.gle/m3h5FkXRvU7fRR7C6)
 - [Autodiff expert study form](https://forms.gle/UcJT6RFnwruDsb8C7)
 
-On each form, we ask whether the participant would be willing for the audio recording and/or text transcript of their interview to be made public. All such public recordings and transcripts can be found in [this Google Drive folder](https://drive.google.com/drive/folders/1XNBbRsqg1KVZ-NLMRgJTap7pl6tSgQEi). Contents of the other interviews are not public.
+On each form, we ask whether the participant would be willing for the audio recording and/or text transcript of their interview to be made public. All such public recordings can be found in [this Google Drive folder](https://drive.google.com/drive/folders/1XNBbRsqg1KVZ-NLMRgJTap7pl6tSgQEi), and all such public transcripts can be found in the [`transcripts`](transcripts) folder of this repository. Contents of the other interviews are not public.

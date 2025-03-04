@@ -227,7 +227,7 @@ Going back to something we talked about earlier—I realize we're getting close 
 Yeah, I would say, a bit of everything that you said. I would say, there are definitely people who have done things a way for a long time, and it's just, they don't want to do things a different way. And sometimes that's a mistake. But I also think, talking to some people with views like this and looking at their applications and thinking about them, I'm like, well, shoot, yeah! AD can't really serve you in its current state! It actually might be the least time, and the outcome that you have the most control over, to hand-code them. And insofar as that's true, I think that's a reflection—I don't think these are the sorts of problems that are insurmountable. I would say these are cases where—people making their optimal decisions to solve their problems are not using AD, and that's because AD tools are not yet mature enough, on this axis, to serve their needs.
 
 00:53:48 Sam
-Yeah, makes sense. Yeah, after we turn off the recording—, I'll probably ask you if you have any specific people that I can get in touch with who are doing this sort of work and not using AD tools, for the other half of this interview study, 'cause I think that would be super fascinating.
+Yeah, makes sense. Yeah, after we turn off the recording, I'll probably ask you if you have any specific people that I can get in touch with who are doing this sort of work and not using AD tools, for the other half of this interview study, 'cause I think that would be super fascinating.
 
 00:54:03 Jesse
 Yeah, Reviewer 2.

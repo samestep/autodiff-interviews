@@ -232,7 +232,7 @@ Yeah, makes sense. Yeah, after we turn off the recording, I'll probably ask you 
 _00:54:03 Jesse_  
 Yeah, Reviewer 2.
 
-00:54:3 Sam
+_00:54:3 Sam_  
 Yeah. Or if you happen to know anyone specific. But, yeah, we can talk about it after the recording. Yeah, we're pretty much at time. Any closing thoughts that you want to say or talk about in the next couple minutes?
 
 _00:54:19 Jesse_  
